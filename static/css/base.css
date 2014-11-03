@@ -48,10 +48,11 @@ body
 {
 	height:						400px;
 	margin-left:				-277.5px;
-	margin-top:					200px;
+	margin-top:					250px;
+	/* margin-bottom:			0px; */
 	width:						555px;
 
-	position: 					relative;
+	position: 					fixed;
 	bottom:						0;
 	left:						50%;
 }
