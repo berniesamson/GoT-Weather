@@ -44,11 +44,12 @@ body
 
 .container
 {
-	height:						639px;
+	height:						400px;
 	margin-left:				-277.5px;
+	margin-top:					200px;
 	width:						555px;
 
-	position: 					fixed;
+	position: 					relative;
 	bottom:						0;
 	left:						50%;
 }
