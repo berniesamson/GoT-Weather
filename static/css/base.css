@@ -25,6 +25,8 @@ body
 	-moz-background-size:		cover;
 	-o-background-size:			cover;
 	-webkit-background-size:	cover;
+
+
 }
 
 .share
@@ -89,3 +91,14 @@ body
 {
 	color:						#fff;
 }
+
+/* Need to figure out how to get the image of text to change with temperature */
+
+    .weathertext {
+                width:550px;
+                height:550px;
+                background: url(img/words/02n.png);
+                background-repeat: no-repeat;
+                background-attachment: center center;
+                background-size: 550px 550px;
+            }
